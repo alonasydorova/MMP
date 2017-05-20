@@ -88,6 +88,7 @@ fishMove = 0
 stick(slides[1], 0.15, fishPos, True)
 print(occupation)
 # Event loop, just for stopping
+# hahahahahhaha!
 while True:
     for event in pygame.event.get():
         if event.type == QUIT:
