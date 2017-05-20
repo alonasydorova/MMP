@@ -71,6 +71,7 @@ stick(slides[1], 0.25, (sc_w/2,sc_h/2))
 print(occupation)
     
 # Event loop, just for stopping
+# hahahahahhaha!
 while True:
     for event in pygame.event.get():
         if event.type == QUIT:
